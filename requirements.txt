@@ -1,2 +1,2 @@
-kmeans_pytorch @ git+ssh://git@github.com/zhaoyu-li/kmeans_pytorch.git
-cnfgen @ git+ssh://git@github.com/zhaoyu-li/cnfgen.git
+kmeans_pytorch @ git+https://github.com/zhaoyu-li/kmeans_pytorch.git
+cnfgen @ git+https://github.com/zhaoyu-li/cnfgen.git
